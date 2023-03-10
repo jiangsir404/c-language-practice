@@ -1,18 +1,18 @@
 ## c语言练习代码
 
--[x] basic 基础操作
+- [x] basic 基础操作
     - define符号常量
     - printf格式化输出
--[x] point 指针操作
--[x] struct 结构体操作
--[x] array 数组操作
--[x] file 文件操作
--[x] DS 数据结构
+- [x] point 指针操作
+- [x] struct 结构体操作
+- [x] array 数组操作
+- [x] file 文件操作
+- [x] DS 数据结构
     - 八皇后问题
     - 哈夫曼编码问题
     - 线性表链式结构
     - 线性表顺序结构
--[x] algorithm
+- [x] algorithm
     - 闰年判断
     - 求素数
     - 求完数
