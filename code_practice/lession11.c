@@ -4,19 +4,21 @@
 
 #include<stdio.h>
 
- void print_reverse_str(char *str){
-     if(*str == '\0'){
-         return ;
+ int print_reverse_str(char *str){
+     if(*(str+1) == '\0'){
+         return 0;
      }else{
-         print_reverse_str(str++);
+         print_reverse_str(++str);
          printf("%c",*str);
      }
  }
 
 int main(){
-    char s[10];
+    char s[20];
     printf("pls input str:");
     scanf("%s", s);
+    //printf("%s", s);
     print_reverse_str(s);
+    printf("%c", s[0]);
     return 0;
 }
