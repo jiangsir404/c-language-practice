@@ -7,6 +7,11 @@
 - [x] struct 结构体操作
 - [x] array 数组操作
 - [x] file 文件操作
+- [x] module常用库函数
+    - 数学计算math.h
+    - 字符库函数 ctype.h
+    - 字符串函数 string.h
+    - 系统库函数 stdlib.h
 - [x] DS 数据结构
     - 八皇后问题
     - 哈夫曼编码问题
