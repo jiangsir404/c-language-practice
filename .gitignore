@@ -1,0 +1,6 @@
+.exe
+.idea
+*.pyc
+build/ 
+*.zip
+_build
