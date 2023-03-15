@@ -19,7 +19,7 @@ int main(){
     }
     printf("\n");
 
-    //遍历字符数组
+    //遍历字符数组,字符数组的结尾标志是'\0'
     char s[] = "hello,world";
     char *p1;
     for(p1=s;*p1!='\0';p1++){
