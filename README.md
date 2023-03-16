@@ -12,7 +12,7 @@
     - 字符库函数 ctype.h
     - 字符串函数 string.h
     - 系统库函数 stdlib.h
-- [x] code_practice c语言经典编程100中的练习
+- [x] code_practice c语言经典编程100中的练习(更新至21道)
 - [x] DS 数据结构
     - 八皇后问题
     - 哈夫曼编码问题
