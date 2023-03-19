@@ -8,6 +8,12 @@
 - 《c陷阱与缺陷》
 - 《剑指offer》
 - 《编程之美》
+- [菜鸟编程 C 语言经典100例](https://www.runoob.com/cprogramming/c-100-examples.html)
+- [菜鸟编程 C 语言实例](https://www.runoob.com/cprogramming/c-examples.html)
+
+## 文章笔记
+- [ ] 经典排序算法一
+- [ ] 经典排序算法二
 
 ### 代码
 - [x] basic 基础操作
@@ -21,7 +27,7 @@
     - 字符串函数 string.h
     - 系统库函数 stdlib.h
     - 输入输出库函数 stdio.h
-- [x] DS 数据结构
+- [x] DataStructure 数据结构
     - 八皇后问题
     - 哈夫曼编码问题
     - 线性表链式结构

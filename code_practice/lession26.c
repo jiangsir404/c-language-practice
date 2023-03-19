@@ -31,4 +31,6 @@ int main(){
     puts(s1);
     bubble_sort(s1,strlen(s1));
     printf("output:%s", s1);
+    fp1 = fopen("new.txt", "w");
+    fputs(s1,fp1);
 }
