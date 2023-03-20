@@ -1,4 +1,4 @@
-//简单排序算法
+//简单排序算法: 冒泡排序，选择排序，直接插入排序。
 
 #include<stdio.h>
 #define ElemType char
